@@ -1,0 +1,7 @@
+2018-04-22 16:04:51,700 - transactions - INFO - account:1234   action:Repay    amount:1   interest:0
+2018-04-22 16:05:16,064 - transactions - INFO - account:1234   action:Repay    amount:1   interest:02018-04-27 11:21:44,159 - transactions - INFO - account:1234   action:Repay    amount:10   interest:0
+2018-04-27 11:23:43,396 - transactions - INFO - account:1234   action:Withdraw    amount:100   interest:5.0
+2018-04-27 11:23:54,260 - transactions - INFO - account:1234   action:Buy    amount:10   interest:0
+2018-04-27 11:23:59,306 - transactions - INFO - account:1234   action:Transfer    amount:2345   interest:117.25
+2018-04-27 11:24:36,067 - transactions - INFO - account:1234   action:Transfer    amount:100   interest:5.0
+2018-04-27 11:25:10,186 - transactions - INFO - account:1234   action:Transfer    amount:100   interest:5.0
